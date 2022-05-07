@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.headline {
+  color: blue;
+  border: 1px dashed blue;
+  margin-bottom: 50px;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: center;
+  color: red;
+  border: 1px solid red;
+  margin-bottom: 10px;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.input-button {
+  border: 2px solid green;
+  cursor: pointer;
+}
+
+.input-button:hover {
+  color: yellowgreen;
+}
